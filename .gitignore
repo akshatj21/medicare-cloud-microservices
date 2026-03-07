@@ -1,0 +1,7 @@
+.idea/
+.mvn/
+out/
+build/
+target/
+logs/
+*.log
